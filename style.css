@@ -129,6 +129,16 @@ textarea{
     margin: auto;
 }
 
+.botones{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-oradores{
+    width: 150px;
+    margin: 10px;
+}
+
 .footer {
     height: 55.95px;
     margin-top: 30px;

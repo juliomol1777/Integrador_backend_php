@@ -162,8 +162,8 @@
             placeholder="Total a Pagar: $"></textarea>
         </div>
         <div class="botones">
-          <button type="button" class="btn btn-primary btn-lg" onclick="borrar()">Borrar</button>
-          <button type="button" class="btn btn-secondary btn-lg" onclick="mostrarResumen()">Resumen</button>
+          <button type="button" class="btn-oradores btn btn-secondary btn-lg" onclick="borrar()">Borrar</button>
+          <button type="button" class="btn-oradores btn btn-primary btn-lg" onclick="mostrarResumen()">Resumen</button>
         </div>
       </div>
     </div>
